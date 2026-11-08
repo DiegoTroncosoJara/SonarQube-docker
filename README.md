@@ -52,3 +52,8 @@ Para analizar un repositorio externo:
 - Utilizar volúmenes persistentes.
 - Fijar versiones de las imágenes para entornos estables.
 - No utilizar `docker compose down -v` si se desea conservar la información.
+
+# CREDENCIALES
+
+user: admin
+password: Está en el .env (default admin)
